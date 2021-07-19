@@ -1,6 +1,6 @@
-  {
-    "menu": [
+[
       {
+        "id": "1",
         "category":"Almuerzo",
         "name": "Lasagna di Carina",
         "ingredients":"Lasagna con una deliciosa combinación de nuestras salsas Bolognesa y Alfredo.",       
@@ -8,6 +8,7 @@
       },
 
       {
+        "id": "2",
         "category":"Almuerzo",
         "name": "Canneloni de Espinaca & ricotta",
         "ingredients": "Relleno de queso ricotta en masa de espinaca natural.",
@@ -15,6 +16,7 @@
       },
 
       {
+        "id": "3",
         "category":"Almuerzo",
         "name": "Ravioli de queso de cabra",
         "ingredients": "Rellenos de queso de cabra con tomates asados en masa de albahaca.",
@@ -22,6 +24,7 @@
       },
 
       {
+        "id": "4",
         "category":"Almuerzo",
         "name": "Ñoquis DeLuca",
         "ingredients":"Palta, tomate, ajo y albahaca fresca. Con queso parmesano, aceite de oliva y perejil.",
@@ -29,6 +32,7 @@
       },
 
       {
+        "id": "5",
         "category":"Almuerzo",
         "name": "Espaguetis a la Carbonara",
         "ingredients":"Espagueti con panceta y queso Pecorino",
@@ -36,6 +40,7 @@
       },
 
       {
+        "id": "6",
         "category":"Almuerzo",
         "name": "Risotto alla milanese",
         "ingredients":"Clásico de Milan con queso Parmesano y Azafrán",
@@ -43,6 +48,7 @@
       },
 
       {
+        "id": "7",
         "category":"Bebestible",
         "name": "Café espresso",
         "ingredients":"Granos de café tostado recien molido para un placer de un autentico Café Italiano",
@@ -50,6 +56,7 @@
       },
 
       {
+        "id": "8",
         "category":"Bebestible",
         "name": "Capuchino",
         "ingredients":"Café espresso recien preparado con espumada de leche",
@@ -57,6 +64,7 @@
       },
 
       {
+        "id": "9",
         "category":"Bebestible",
         "name":"Moka",
         "ingredients":"Chocolate italiano, cafe expreso y espuma de leche",
@@ -64,6 +72,7 @@
       },
 
       {
+        "id": "10",
         "category":"Bebestible",
         "name":"Té de la Nona",
         "ingredients":"Té de hoja con especias",
@@ -71,6 +80,7 @@
       },
 
       {
+        "id": "11",
         "category":"Bebestible",
         "name":"Jugo Natural",
         "ingredients":"Mango, Frambuesa, Piña, Melón, Frutilla.",
@@ -78,6 +88,7 @@
       },
 
       {
+        "id": "12",
         "category":"Bebestible",
         "name":"Bebidas",
         "ingredients":"Coca cola, Fanta, Sprite, Nordic.",
@@ -85,6 +96,7 @@
       },
 
       {
+        "id": "13",
         "category":"Desayuno",
         "name":"Panini caprese",
         "ingredients":"Panini, pesto, queso mozzarella, tomate y albahaca.",
@@ -92,6 +104,7 @@
       },
 
       {
+        "id": "14",
         "category":"Desayuno",
         "name":"Panini Napolitano",
         "ingredients":"Panini, jamón, queso mozzarella, tomate y oregano.",
@@ -99,6 +112,7 @@
       },
 
       {
+        "id": "15",
         "category":"Desayuno",
         "name":"Panini Italiano",
         "ingredients":"Panini, aceitunas verdes, pimientos asados, salame y queso provolone.",
@@ -106,6 +120,7 @@
       },
 
       {
+        "id": "16",
         "category":"Desayuno",
         "name":"Tiramisú",
         "ingredients":"Dejate llevar por este clásico postre italiano con queso Mascarpone.",
@@ -113,10 +128,11 @@
       },
 
       {
+        "id": "17",
         "category":"Desayuno",
         "name":"Torta Genovés",
         "ingredients":"Delicioso bizcocho de chocolate con mermelada de frambuesa.",
         "price":"2490"
       }
     ]
-  }
+  

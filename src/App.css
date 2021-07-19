@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+.logo {
+  width: 30%;
+  margin-left: 30px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navBar {
+  position: fixed;
+  width: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.sideBar {
+  position: fixed;
+  height: 100%;
+  width: 6%;
+  z-index: 5;
+  top: 5em;
+  padding: 48px 0 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.sidebarBtn {
   display: flex;
+  width: auto;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 24em;
 }
 
-.App-link {
-  color: #61dafb;
+.content {
+  display: flex;
+  width: auto;
+  justify-content: left;
+  margin-left: 10%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contentMenu {
+  margin-top: 8%;
+}
+
+.order {
+  margin-left: 30em;
+  margin-top: -6%;
+}
+
+.button {
+  display: flex;
+  width: auto;
+  position: fixed;
+}
+
+.product {
+  display: flex;
+  width: auto;
+  flex-direction: row;
+  margin-top: 2%;
+}
+
+.dataProducts {
+  display: flex;
+  width: auto;
+  flex-direction: row;
+  margin-top: 6%;
+}
+
+.btnOrder {
+  outline: none;
+  border-color: none;
+  border-radius: 10px;
+  background-color: rgb(69, 231, 69);
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-size: x-small;
+  margin-left: 200%;
+  margin-top: 35%;
 }
